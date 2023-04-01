@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/emp_app/static/css/main.073c9b0a.css",
-    "main.js": "/emp_app/static/js/main.aecf88d9.js",
+    "main.js": "/emp_app/static/js/main.1873aa83.js",
     "static/js/787.4256bb00.chunk.js": "/emp_app/static/js/787.4256bb00.chunk.js",
     "static/media/logo.svg": "/emp_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/emp_app/index.html",
     "main.073c9b0a.css.map": "/emp_app/static/css/main.073c9b0a.css.map",
-    "main.aecf88d9.js.map": "/emp_app/static/js/main.aecf88d9.js.map",
+    "main.1873aa83.js.map": "/emp_app/static/js/main.1873aa83.js.map",
     "787.4256bb00.chunk.js.map": "/emp_app/static/js/787.4256bb00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.aecf88d9.js"
+    "static/js/main.1873aa83.js"
   ]
 }

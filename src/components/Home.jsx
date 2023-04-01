@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useState } from 'react'
+import Header from './Header'
 
 const Home = () => {
 const apilink="https://jsonplaceholder.typicode.com/users"
@@ -18,6 +19,7 @@ React.useEffect(
 
   return (
     <div>
+      <Header/>
       <h2>EMPLOYEE DASHBOARD</h2>
       <table className="table">
     <thead>
